@@ -6,7 +6,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shalk" />
 </a>
 
-- 🔭 I’m currently working on job
+- 🔭 I’m currently learning message system
 
 
 
