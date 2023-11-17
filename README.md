@@ -6,7 +6,19 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shalk" />
 </a>
 
-- 🔭 I’m currently learning message system
+- 🔭 I’m currently reading Designing Data-Intensive Applications
+
+
+- 10 Years of Programming Experience
+- Expert At Java And Backend Engineering
+- Expert At microservice architecture framework domain, like RPC, Servce Discovery, Load Balance, Telemtry(Tracing, Metric, Log)
+  
+Contributor:
+- Nacos
+- Apache Hive / Apache Commons
+  
+### How to reach me 📫 
+- **Email：xshalk [at] 163.com**
 
 
 
