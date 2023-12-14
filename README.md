@@ -6,8 +6,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shalk" />
 </a>
 
-- 🔭 I’m currently reading Designing Data-Intensive Applications
-
+- 🔭 I’m currently fucos on Java Infra With Large Language Model
 
 - 10 Years of Programming Experience
 - Expert At Java And Backend Engineering
