@@ -12,8 +12,10 @@
 - Expert At microservice architecture framework domain, like RPC, Servce Discovery, Load Balance, Telemtry(Tracing, Metric, Log)
   
 Contributor:
-- Nacos
 - Apache Hive / Apache Commons
+
+Commiter:
+- Alibaba Nacos
   
 ### How to reach me 📫 
 - **Email：xshalk [at] 163.com**
