@@ -9,7 +9,8 @@
 - 🔭 I’m currently fucos on Infra System.
 - 10 Years of Programming Experience
 - Expert At Java And Backend Engineering
-- Expert At microservice architecture framework domain, like RPC, Servce Discovery, Load Balance, Telemtry(Tracing, Metric, Log)
+- Expert At microservice architecture framework domain, like RPC, Servce Discovery, Load Balance, Telemetry(Tracing, Metric, Log)
+- Recently, Intereted on Message Queue And AI
   
 Contributor:
 - Apache Hive / Apache Commons
