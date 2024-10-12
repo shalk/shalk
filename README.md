@@ -11,12 +11,16 @@
 - Expert At Java And Backend Engineering
 - Expert At microservice architecture framework domain, like RPC, Servce Discovery, Load Balance, Telemetry(Tracing, Metric, Log)
 - Recently, Intereted on Message Queue And AI
+
+Member:
+- CNCF Opentelemetry
+  
+Commiter:
+- Alibaba Nacos
   
 Contributor:
 - Apache Hive / Apache Commons
 
-Commiter:
-- Alibaba Nacos
   
 ### How to reach me 📫 
 - **Email：xshalk [at] 163.com**
