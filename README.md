@@ -7,7 +7,7 @@
 </a>
 
 - 🔭 I’m currently fucos on Infra System.
-- 10 Years of Programming Experience
+- 10+ Years of Programming Experience
 - Expert At Java And Backend Engineering
 - Expert At microservice architecture framework domain, like RPC, Servce Discovery, Load Balance, Telemetry(Tracing, Metric, Log)
 - Recently, Intereted on Message Queue And AI
