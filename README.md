@@ -6,7 +6,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shalk" />
 </a>
 
-- 🔭 I’m currently fucos on Infra System.
+- 🔭 I’m currently focus on Infra System.
 - 10+ Years of Programming Experience
 - Expert At Java And Backend Engineering
 - Expert At microservice architecture framework domain, like RPC, Servce Discovery, Load Balance, Telemetry(Tracing, Metric, Log)
