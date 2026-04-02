@@ -10,7 +10,7 @@
 - 10+ Years of Programming Experience
 - Expert At Java And Backend Engineering
 - Expert At microservice architecture framework domain, like RPC, Servce Discovery, Load Balance, Telemetry(Tracing, Metric, Log)
-- Recently, Intereted on Message Queue And AI
+- Recently, Intereted on AI and Rust
 
 Member:
 - CNCF Opentelemetry
